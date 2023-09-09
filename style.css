@@ -1,0 +1,177 @@
+body{
+    margin:0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    background-color:#fff8f3;
+}
+section{
+    height:700px;
+    margin-bottom: 10px;
+}
+.half-div{
+    width:40%;
+    float:left;
+    margin-left:7%;
+    padding-left: 2%;
+    
+}
+    .half-div img{
+        width:100%;
+     }
+    
+    .half-div h1{
+        font-size: 40px;
+       
+    }
+
+    .half-div a{
+        text-decoration: none;
+        background-color: #DC5470;
+        color:white;
+        padding:10px;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+    /* about section styles */
+    .about{
+        margin-top:70px;
+        padding:130px 150px;
+        text-align: center;
+    }
+     .about-title{
+         margin:30px;
+         font-weight: 700;
+         font-size: 35px;
+     }
+     .about-description{
+         color:#757575;
+         font-size:18px;
+         margin:30px;
+     }
+     .about-info-container{
+         display:flex;
+         justify-content: space-around;
+     }
+     
+     .flower-one{
+    background-color: violet;
+    border-radius:120px 120px 0 0;
+    width: 280px;
+    height: 380px;
+
+
+}
+     .flower-two{
+    background-color:skyblue;
+    height: 380px;
+    width: 280px;
+    border-radius:120px 120px 0 0;
+
+}
+    .flower-three{
+    background-color: gray;
+    border-radius:120px 120px 0 0;
+    width: 280px;
+    height: 380px;
+}
+
+.container{
+    height:350px;
+    background-color:gainsboro;
+}
+
+.half-div-one{
+    width:40%;
+    float:left;
+    margin-top: 5%;
+    margin-left:7%;
+    padding-left: 2%;
+    
+}
+
+.half-div-one a{
+    text-decoration: none;
+    background-color: #DC5470;
+    color:white;
+    padding:10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+    .half-div-one img{
+        width:40%;
+        
+     }
+     span{
+         color: #DC5470;
+     }
+
+     footer{
+         text-align:center;
+         background-color:black;
+         height:180px;
+     }
+     .white{
+         color:white;
+     }
+
+     footer p{
+         color: white;
+     }
+     .flower-style-one{
+        background-color:skyblue;
+        height: 380px;
+        width: 280px;
+        margin: 10px;
+     }
+     .flower-style-two{
+        background-color:skyblue;
+        height: 380px;
+        width: 280px;
+        margin: 10px;
+     }
+     .flower-style-three{
+        background-color:skyblue;
+        height: 380px;
+        width: 280px;
+        margin: 10px;
+     }
+     .flower-style-four{
+        background-color:skyblue;
+        height: 380px;
+        width: 280px;
+        margin: 10px;
+     }
+
+     .background{
+        background-image: url("Flower Asset/Rectangle 9.png");
+        height: 300px;
+        width: 1000px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        margin: auto;
+        border-radius: 30px;
+    }
+    .arrangement{
+        text-align: center;
+        margin-top:120px;
+    }
+
+    .background input[type="text"]{
+        margin-bottom:24px;
+        border:0;
+        width: 50%;
+        padding:18px 30px;
+        border-radius: 7px;
+    }
+    button{
+        border:0;
+        color:white;
+        background-color: burlywood;
+        padding: 18px 18px;
+        border-radius: 7px;
+    }
+
+    
+
